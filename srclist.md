@@ -11,7 +11,7 @@
 |[Tuya SRC](https://src.tuya.com/)[Tuya SRC](https://src.tuyacn.com/)||1积分=1美元||
 |[亿咖通安全应急响应中心](https://src.ecarxgroup.com/)|||人民币|
 |[快手安全应急响应中心](https://security.kuaishou.com/notice)||||
-|[OPPO安全应急响应中心 | OSRC](https://security.oppo.com/cn/noticeDetail?notice_only_key=20221659515571953)||||
+|[OPPO安全应急响应中心](https://security.oppo.com/cn/noticeDetail?notice_only_key=20221659515571953)||||
 |[东航网络安全应急响应中心（MUSRC）](https://src.ceair.com/contributionList/)||||
 
 
