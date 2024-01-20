@@ -13,7 +13,12 @@
 |[快手安全应急响应中心](https://security.kuaishou.com/notice)||||
 |[OPPO安全应急响应中心](https://security.oppo.com/cn/noticeDetail?notice_only_key=20221659515571953)||||
 |[东航网络安全应急响应中心（MUSRC）](https://src.ceair.com/contributionList/)||||
-
+|[喜马拉雅安全应急响应中心](https://security.ximalaya.com/)||||
+|[金山办公安全应急响应中心](https://security.wps.cn/)||||
+|[猎聘安全应急响应中心](https://security.liepin.com/)||||
+|[龙湖安全应急响应中心](https://security.longfor.com/#/home)||||
+|[微博安全应急响应中心](https://wsrc.weibo.com/)||||
+|[斗鱼安全应急响应中心 - DYSRC](https://security.douyu.com/)||||
 
 
 ### 集合
