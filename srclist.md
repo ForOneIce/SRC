@@ -19,7 +19,8 @@
 |[龙湖安全应急响应中心](https://security.longfor.com/#/home)||||
 |[微博安全应急响应中心](https://wsrc.weibo.com/)||||
 |[斗鱼安全应急响应中心 - DYSRC](https://security.douyu.com/)||||
-
+|[智联招聘安全应急响应中心](https://src.zhaopin.com/)||||
+|[深信服安全应急响应中心](https://security.sangfor.com.cn/)||||
 
 ### 集合
 [国内漏洞响应平台（SRC）导航 - 安全客，安全资讯平台](https://www.anquanke.com/src)
