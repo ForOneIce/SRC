@@ -22,6 +22,8 @@
 |[智联招聘安全应急响应中心](https://src.zhaopin.com/)||||
 |[深信服安全应急响应中心](https://security.sangfor.com.cn/)||||
 |[银联安全应急响应中心(USRC)](https://security.unionpay.com/)||||
+|[奇富科技安全应急响应中心](https://security.360shuke.com/#/index)||||
+|[58安全应急响应中心](https://security.58.com/)||||
 
 
 ### 集合
