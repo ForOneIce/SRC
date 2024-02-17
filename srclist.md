@@ -25,8 +25,7 @@
 |[奇富科技安全应急响应中心](https://security.360shuke.com/#/index)||||
 |[58安全应急响应中心](https://security.58.com/)||||
 |[网易安全中心](https://aq.163.com/)||||
-|[华住安全响应中心 | Huazhu Security Response Center](https://sec.huazhu.com/)||||
-|[华住安全响应中心 | Huazhu Security Response Center](https://sec.huazhu.com/)||||
+|[华住安全响应中心 Huazhu Security Response Center](https://sec.huazhu.com/)||||
 
 ### 集合
 [国内漏洞响应平台（SRC）导航 - 安全客，安全资讯平台](https://www.anquanke.com/src)
